@@ -16,4 +16,4 @@ I am currently learning Cloud Computing, C++,Python and Web Development, and I h
 ---
 
 📫 Connect with me:
-- GitHub: https://github.com/your-username
+- LinkedIn: https://www.linkedin.com/in/shariya-asad-7b1131342/
